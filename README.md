@@ -6,7 +6,6 @@ Luna is the other character in the game and the interactable object (Evan said t
 
 
 To run the game, type make and then press enter. Then type make run and press enter. 
-Objective of the game: Find Luna
 Rules:
 1. You have to use yes or no unless prompted otherwise during the game
 2. You can check each room more than once.
