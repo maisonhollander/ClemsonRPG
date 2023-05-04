@@ -1,8 +1,8 @@
 # ClemsonRPG
 Help me find my dog, Luna. She's hiding somewhere in the house.
-User must traverse the map in order to find Luna
-She will always be in the bedroom, in the closet
-Luna is the other character in the game and the interactable object (Evan said this was okay)
+User must traverse the map in order to find Luna.
+She will always be in the bedroom, in the closet.
+Luna is the other character in the game and the interactable object (Evan said this was okay).
 
 
 To run the game, type make and then press enter. Then type make run and press enter. 
